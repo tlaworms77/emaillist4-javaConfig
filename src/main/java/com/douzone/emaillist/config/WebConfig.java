@@ -20,6 +20,6 @@ public class WebConfig {
 		resolver.setSuffix(".jsp");
 		resolver.setExposeContextBeansAsAttributes(true);
 		
-		return resolver;
+		return resolver; 
 	}
 }
